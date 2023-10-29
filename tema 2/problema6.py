@@ -14,7 +14,6 @@ def find_items_appearing_x_times(x: int, *lists: list) -> list[int]:
 
     return result
 
-# Example usage:
 list1 = [1, 2, 3]
 list2 = [2, 3, 4]
 list3 = [4, 5, 6]

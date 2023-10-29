@@ -8,7 +8,6 @@ def combine_lists(*lists: list) -> list[tuple]:
 
     return result
 
-# Example usage:
 list1 = [1, 2, 3]
 list2 = [5, 6, 7]
 list3 = ["a", "b", "c"]
