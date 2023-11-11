@@ -1,0 +1,1 @@
+fisier pe care scriptul nu trebuie sa-l citeasca
